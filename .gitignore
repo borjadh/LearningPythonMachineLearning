@@ -1,0 +1,6 @@
+# Jupyter checkpoints (all subdirectories)
+.ipynb_checkpoints
+**/.ipynb_checkpoints/*
+
+# Compressed data files
+*.gz
