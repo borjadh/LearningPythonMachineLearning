@@ -4,3 +4,9 @@
 
 # Compressed data files
 *.gz
+
+# Data files
+*.csv
+
+# Logs
+**/logs/
